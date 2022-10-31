@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    
+}
+#wholePage{
+    border: 2px solid black;
+    width: 50%;
+    margin: 16rem 10rem;
+   
+  
+}
